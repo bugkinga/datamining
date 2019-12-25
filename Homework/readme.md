@@ -3,7 +3,7 @@
 ## Dataset
 
 sklearn.datasets.load_digits
-
+one.py
 手写数字数据集，结构化数据的经典数据，共有1797个样本，每个样本有64的元素，对应到一个8x8像素点组成的矩阵，每个值是其灰度值。
 
 |       Name        |    number     |
@@ -15,7 +15,7 @@ sklearn.datasets.load_digits
 |     Features      | integers 0-16 |
 
 sklearn.datasets.fetch_20newsgroups
-
+two.py
 20新闻语料，含有20个类
 
 |      Name      | number |
